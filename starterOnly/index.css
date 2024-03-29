@@ -131,7 +131,7 @@ main {
 }
 
 .display {
-  display: block;
+  display: block !important;
 }
 
 .hidden {
